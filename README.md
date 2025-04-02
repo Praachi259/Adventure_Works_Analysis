@@ -43,3 +43,12 @@ The Adventures Works Project is a Power BI data analysis project that provides i
 1.Power BI Desktop for data visualization and analysis.
 
 2.Data mapping with Bing Maps for geographical insights.
+
+## Future Enhancement
+1.Integration with live data sources for real-time analysis.
+
+2.Advanced predictive analytics using machine learning.
+
+3.Customizable dashboard layouts based on user preferences.
+
+4.Automated email reporting for key stakeholders.
