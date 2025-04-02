@@ -1,4 +1,8 @@
 # Adventure_Works_Analysis
+
+<img src="Dashb.png" width=1000>
+
+
 ## Overview 
 The Adventures Works Project is a Power BI data analysis project that provides insights into total revenue, profit, orders, and return rates for various products and categories. The analysis visualizes trends by year, quarter, and month, offering a comprehensive understanding of sales performance.
 
